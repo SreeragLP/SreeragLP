@@ -20,9 +20,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working on **Django framework**
 - 👨‍💻 Check out my portfolio: [Portfolio](https://sreeraglp.github.io/Sreerag_Portfolio/)
-- 💬 Ask me about **Python, Django**
+- 💬 Ask about **web development and backend frameworks**
 - 📫 How to reach me: **Sreeragp10@gmail.com**
 - 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1WIBnuSHo34f1a__xhPMQuYwUQZxF6lFO/view)
 - ⚡ Fun fact: **I come from a non-IT background**
@@ -66,7 +66,7 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+  </a>  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -103,3 +103,5 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraglp&" alt="sreeraglp" />
 </p>
+
+<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
