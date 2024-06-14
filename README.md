@@ -1,14 +1,23 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="MasterHead" />
+</p>
+
+
 <h1 align="center">🖖 Greetings, fellow traveler! I'm Sreerag,</h1>
 <h3 align="center">A Python enthusiast from Kerala, India.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sreeraglp&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraglp" /> 
+<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sreeraglp&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraglp" />
 </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://twitter.com/sreeraglp" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sreeraglp?logo=twitter&style=for-the-badge" alt="sreeraglp" />
-  </a> 
+  </a>
 </p>
 
 - 🌱 I’m currently learning **Django**
@@ -32,6 +41,7 @@
   <a href="https://linkedin.com/in/sree-rag-p" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sree-rag-p" height="30" width="40" />
   </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -79,6 +89,8 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
+
+<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreeraglp&show_icons=true&locale=en&layout=compact" alt="sreeraglp" />
