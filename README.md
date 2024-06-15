@@ -25,7 +25,6 @@
 - 📄 View my resume: [Resume](https://drive.google.com/file/d/1WIBnuSHo34f1a__xhPMQuYwUQZxF6lFO/view)
 - 💬 Feel free to ask me about anything tech-related
 -  🌟 Always excited to collaborate on new projects and ideas!
-- ⚡ Fun fact: **My commerce background enriches my tech view**
 - 📫 How to reach me: **Sreeragp10@gmail.com**
 
 
@@ -108,3 +107,22 @@
 </p>
 
 <img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+
+
+
+<div align="center">
+  <h3>Let's Connect 🌐</h3>
+  <p>Feel free to reach out through any of these platforms:</p>
+  <a href="mailto:sreeragp10@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/sreeraglp"><img src="https://img.shields.io/twitter/follow/sreeraglp?style=social"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sree-rag-p"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/sreeraglp"><img src="https://img.shields.io/badge/Dev.to-Read%20Articles-black"></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/sreerag-p"><img src="https://img.shields.io/badge/CodePen-View%20Projects-lightgrey"></a>
+  <br><br>
+  <p>⚡ Fun fact: My commerce background enriches my tech perspective</p>
+  <p>📫 Contact me via email: <a href="mailto:sreeragp10@gmail.com">Sreeragp10@gmail.com</a></p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=sreeraglp&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraglp" />
+</div>
+
+
