@@ -12,13 +12,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sreeraglp&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraglp" />
+   <a href="https://twitter.com/sreeraglp"><img src="https://img.shields.io/twitter/follow/sreeraglp?style=social"></a>&nbsp;&nbsp;
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/sreeraglp" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sreeraglp?logo=twitter&style=for-the-badge" alt="sreeraglp" />
-  </a>
-</p>
 
 - 🌱 I’m currently working on **Django framework**
 - 👨‍💻 Check out my portfolio: [Portfolio](https://sreeraglp.github.io/Sreerag_Portfolio/)
