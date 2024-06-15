@@ -22,10 +22,13 @@
 
 - 🌱 I’m currently working on **Django framework**
 - 👨‍💻 Check out my portfolio: [Portfolio](https://sreeraglp.github.io/Sreerag_Portfolio/)
-- 💬 Ask about **web development and backend frameworks**
+- 📄 View my resume: [Resume](https://drive.google.com/file/d/1WIBnuSHo34f1a__xhPMQuYwUQZxF6lFO/view)
+- 💬 Feel free to ask me about anything tech-related
+-  🌟 Always excited to collaborate on new projects and ideas!
+- ⚡ Fun fact: **My commerce background gives me a unique perspective on tech**
 - 📫 How to reach me: **Sreeragp10@gmail.com**
-- 📄 Learn about my experiences: [Resume](https://drive.google.com/file/d/1WIBnuSHo34f1a__xhPMQuYwUQZxF6lFO/view)
-- ⚡ Fun fact: **I come from a non-IT background**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
