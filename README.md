@@ -13,6 +13,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sreeraglp&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraglp" />
    <a href="https://twitter.com/sreeraglp"><img src="https://img.shields.io/twitter/follow/sreeraglp?style=social"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sree-rag-p"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>&nbsp;&nbsp;
 </p>
 
 
