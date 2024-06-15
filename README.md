@@ -23,7 +23,7 @@
 - 💬 Feel free to ask me about anything tech-related
 -  🌟 Always excited to collaborate on new projects and ideas!
 - 📫 How to reach me: **Sreeragp10@gmail.com**
-- 🎨 Hobbies: Reading books, football, exploring movies, listening to rock music, and delving into history
+- 🎨 Hobbies: Reading books, football, exploring movies,<br> listening to rock music, and delving into history
 
 
 
