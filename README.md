@@ -25,7 +25,7 @@
 - 📄 View my resume: [Resume](https://drive.google.com/file/d/1WIBnuSHo34f1a__xhPMQuYwUQZxF6lFO/view)
 - 💬 Feel free to ask me about anything tech-related
 -  🌟 Always excited to collaborate on new projects and ideas!
-- ⚡ Fun fact: **My commerce background enriches my tech perspective**
+- ⚡ Fun fact: **My commerce background enriches my tech view**
 - 📫 How to reach me: **Sreeragp10@gmail.com**
 
 
