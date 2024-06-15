@@ -25,22 +25,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/sreerag-p" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sreerag-p" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/sreeraglp" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sreeraglp" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/sreeraglp" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreeraglp" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sree-rag-p" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sree-rag-p" height="30" width="40" />
-  </a>
 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -118,7 +103,7 @@
   <p>⚡ Fun fact: My commerce background enriches my tech perspective</p>
   <p>📫 Contact me via email: <a href="mailto:sreeragp10@gmail.com">Sreeragp10@gmail.com</a></p>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=sreeraglp&label=Profile%20views&color=0e75b6&style=flat" alt="sreeraglp" />
+  
 </div>
 
-
+<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
