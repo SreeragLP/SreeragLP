@@ -95,7 +95,7 @@
 
 
 <div align="center">
-  <img alt="Coding" width="470" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /><span><img alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img alt="Coding" width="470" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" /><span><img alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
   <h3>Let's Connect 🌐</h3>
