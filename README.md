@@ -23,7 +23,7 @@
 - 💬 Feel free to ask me about anything tech-related
 -  🌟 Always excited to collaborate on new projects and ideas!
 - 📫 How to reach me: **Sreeragp10@gmail.com**
-- 🎨 Hobbies: Reading books, football, exploring movies,<br> listening to rock music, and delving into history
+- 🎨 Hobbies: Reading books, football, exploring movies,<br> listening to music, and delving into history
 
 
 
@@ -95,7 +95,7 @@
 
 
 <div align="center">
-  <img alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg0NzkwMzAsIm5iZiI6MTcxODQ3ODczMCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE1VDE5MTIxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiOTM5MzIwNThiZTc1YjAyMjZkOTRjODYwMzJlMjkxYzJkNjFlM2I2MjIyZWExNzg5MTg2ODkzZmYxZTlmNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ihu3puh1fxjwlsKcWF-3iii0xkv5aLX4WE_u7-YI5sM" /><span><img alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img alt="Coding" width="470" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /><span><img alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
   <h3>Let's Connect 🌐</h3>
